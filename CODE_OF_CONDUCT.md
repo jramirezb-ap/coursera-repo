@@ -58,6 +58,8 @@ representative at an online or offline event.
 
 ## Enforcement
 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the repository maintainers, who will take appropriate action. Enforcement actions may include warnings, temporary or permanent bans, or other measures as deemed necessary.
+
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 .
